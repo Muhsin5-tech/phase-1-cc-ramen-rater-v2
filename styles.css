@@ -26,6 +26,9 @@ header {
   overflow-x: auto;
   margin: 1rem 0;
   max-width: calc(100vw - 2rem);
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background: rgba(110, 188, 111, 0.433);
 }
 
 #ramen-menu img {
